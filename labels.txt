@@ -1,0 +1,10 @@
+0 Bulldog
+1 Golden Retriever
+2 Pastor Alemán
+3 Poodle
+4 Beagle
+5 Daschdund
+6 Chihuahua
+7 Rottweiler
+8 Husky
+9 Snoop Dogg
